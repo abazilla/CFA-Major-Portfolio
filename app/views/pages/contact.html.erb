@@ -1,27 +1,51 @@
 <!-- start menubar -->
-<div class="nav-float"><div class="container">
-  <div class="row">
-    <div class="col-md-12">
-      <ul class="nav navbar-nav">
-        <div class="col-md-3">
-          <li><%= link_to 'HOME', root_path, class: "menu-text-dark"%></li>
-        </div>
-        <div class="col-md-3">
-          <li><%= link_to 'PROJECTS', pages_projects_path, class: "menu-text-dark"%></li>
-        </div>
-        <div class="col-md-3">
-          <li><%= link_to 'CONTACT', pages_contact_path, class: "menu-text-dark"%></li>
-        </div>
-        <div class="col-md-3">
-          <li><%= link_to 'FUN', pages_fun_path, class: "menu-text-dark"%></li>
-        </div>
-      </ul>
+<div class="nav-float">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <ul class="nav navbar-nav">
+          <div class="col-md-3">
+            <li><%= link_to 'HOME', root_path, class: "menu-text-dark"%></li>
+          </div>
+          <div class="col-md-3">
+            <li><%= link_to 'PROJECTS', pages_projects_path, class: "menu-text-dark"%></li>
+          </div>
+          <div class="col-md-3">
+            <li><%= link_to 'CONTACT', pages_contact_path, class: "menu-text-dark"%></li>
+          </div>
+          <div class="col-md-3">
+            <li><%= link_to 'FUN', pages_fun_path, class: "menu-text-dark"%></li>
+          </div>
+        </ul>
+      </div>
     </div>
   </div>
-</div>
 </div>
 <div class="container dark-bg map-bg map-section-style">
   <div class="row section-style">
   </div>
 </div>
 <!--end menu bar-->
+<div class="container">
+  <div class="email-form">
+    <div class="form-group row">
+      <div class="col-xs-12"><h3 class="menu-text-white">Shoot me an e-mail</h3></div>
+      <label for="example-email-input" class="col-2 col-form-label menu-text-white">Your e-mail address</label>
+      <div class="col-10">
+        <input class="form-control" type="text" value="patrick@example.com" id="example-email-input">
+      </div>
+      <br />
+      <label for="example-text-input" class="col-2 col-form-label menu-text-white">Subject</label>
+      <div class="col-10">
+        <input class="form-control" type="email" value="" id="example-text-input">
+      </div>
+      <br />
+      <div class="form-group">
+        <label for="exampleTextarea" class="menu-text-white">What would you like to say?</label>
+        <textarea class="form-control" id="exampleTextarea" rows="3"></textarea>
+      </div>
+      <button type="submit" class="btn btn-primary">Send</button>
+
+    </div>
+  </div>
+</div>

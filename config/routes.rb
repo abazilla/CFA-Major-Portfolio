@@ -1,4 +1,16 @@
 Rails.application.routes.draw do
+  get 'pages/project1'
+
+  get 'pages/project2'
+
+  get 'pages/project3'
+
+  get 'pages/project4'
+
+  get 'pages/project5'
+
+  get 'pages/project6'
+
   get 'pages/projects'
 
   get 'pages/contact'

@@ -6654,3 +6654,3204 @@ Processing by PagesController#index as HTML
 Completed 200 OK in 141ms (Views: 135.3ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2017-03-09 11:51:53 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2416.9ms)
+Completed 200 OK in 2625ms (Views: 2608.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 11:52:08 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 50ms (Views: 47.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 11:52:17 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 57ms (Views: 55.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 11:52:19 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 64ms (Views: 60.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 11:52:21 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 85ms (Views: 79.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 11:56:07 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 45ms (Views: 43.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 11:56:40 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 58ms (Views: 55.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 11:57:21 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 51ms (Views: 49.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 11:58:24 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 43ms (Views: 41.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 12:00:20 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 50ms (Views: 47.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 12:00:43 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 51ms (Views: 49.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:47:02 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1620ms (Views: 1617.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:47:27 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1595ms (Views: 1593.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:48:16 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 82ms (Views: 79.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:48:36 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 78ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:48:58 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 69ms (Views: 67.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:49:20 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1786ms (Views: 1784.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 13:49:31 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (8.8ms)
+Completed 200 OK in 76ms (Views: 73.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 13:49:59 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 77ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:50:02 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 54ms (Views: 52.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:50:21 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1938ms (Views: 1936.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:50:30 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 2599ms (Views: 2597.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:51:43 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1830ms (Views: 1827.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:51:58 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1931ms (Views: 1929.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:52:29 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 1899ms (Views: 1897.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:52:40 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 1878ms (Views: 1876.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:53:02 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1948ms (Views: 1945.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:53:16 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1988ms (Views: 1986.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:54:24 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 76ms (Views: 74.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:54:42 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 1740ms (Views: 1736.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:55:03 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1775ms (Views: 1773.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:55:29 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.1ms)
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:55:30 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 3096ms (Views: 3089.3ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 2544ms (Views: 2539.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:55:44 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1990ms (Views: 1988.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:57:36 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1951ms (Views: 1949.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:58:18 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 22ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Invalid CSS after "...trap-sprockets"": expected "{", was ";"):
+    4:   <title>Portfolio</title>
+    5:   <%= csrf_meta_tags %>
+    6: 
+    7:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:   <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   <script src="https://use.fontawesome.com/9097c39520.js"></script>
+   10: 
+  
+app/assets/stylesheets/application.scss.erb:1
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___449744915387090275_70186845619560'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (13.3ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.0ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (91.6ms)
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:58:23 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 53ms (Views: 50.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:59:29 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 53ms (Views: 51.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 13:59:30 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 269ms (Views: 256.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:00:13 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 2080ms (Views: 2078.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:00:23 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1899ms (Views: 1896.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:00:42 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1973ms (Views: 1971.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:01:01 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 1745ms (Views: 1742.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:01:24 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 2010ms (Views: 2006.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:01:35 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1881ms (Views: 1879.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:01:56 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1644ms (Views: 1642.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:02:15 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 32ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Invalid CSS after "  max-width:": expected expression (e.g. 1px, bold), was "}"):
+    4:   <title>Portfolio</title>
+    5:   <%= csrf_meta_tags %>
+    6: 
+    7:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:   <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   <script src="https://use.fontawesome.com/9097c39520.js"></script>
+   10: 
+  
+app/assets/stylesheets/application.scss.erb:249
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___449744915387090275_70186800498760'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (7.6ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.9ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (70.8ms)
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:02:24 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 1852ms (Views: 1849.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:02:33 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 1937ms (Views: 1935.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:02:43 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 38ms (Views: 36.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:03:03 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1967ms (Views: 1965.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:04:27 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 1890ms (Views: 1886.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:05:03 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 296ms (Views: 292.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:05:51 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 139ms (Views: 136.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:06:12 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 57ms (Views: 55.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:06:22 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 43ms (Views: 41.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:06:45 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 1811ms (Views: 1809.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:08:30 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 2048ms (Views: 2046.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:08:59 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 2093ms (Views: 2091.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:09:46 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 67ms (Views: 65.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:10:27 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1835ms (Views: 1833.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:10:33 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1898ms (Views: 1896.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:11:13 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 62ms (Views: 59.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:11:24 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 38ms (Views: 36.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:11:40 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 64ms (Views: 61.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:12:19 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 49ms (Views: 47.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:12:41 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 65ms (Views: 63.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:12:53 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 53ms (Views: 50.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:12:58 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 45ms (Views: 42.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:13:37 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 149ms (Views: 143.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:14:41 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1950ms (Views: 1948.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:15:15 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1931ms (Views: 1929.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:15:27 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1968ms (Views: 1965.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:15:41 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1934ms (Views: 1932.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:16:11 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 1573ms (Views: 1571.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:16:21 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1661ms (Views: 1659.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:16:28 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:16:29 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 2873ms (Views: 2870.8ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 2601ms (Views: 2598.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:16:45 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 46ms (Views: 44.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:16:49 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 53ms (Views: 50.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:16:54 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 46ms (Views: 44.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:17:00 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 1851ms (Views: 1848.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:17:07 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1638ms (Views: 1636.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:17:24 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 1939ms (Views: 1937.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 14:30:06 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (11.1ms)
+Completed 200 OK in 65ms (Views: 61.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 14:30:08 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 62ms (Views: 59.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 14:30:14 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 64ms (Views: 61.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:30:15 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 169ms (Views: 165.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:32:58 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:33:00 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.1ms)
+Started GET "/pages/contact" for ::1 at 2017-03-09 14:33:00 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 3141ms (Views: 3139.6ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 5166ms (Views: 5162.3ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 5027ms (Views: 5024.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 15:00:42 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (45.1ms)
+Completed 200 OK in 405ms (Views: 398.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:00:43 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 147ms (Views: 143.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:00:47 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 146ms (Views: 139.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:00:50 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 199ms (Views: 181.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:04:52 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 99ms (Views: 97.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:04:55 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 121ms (Views: 117.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:05:12 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 50ms (Views: 48.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:05:37 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 76ms (Views: 73.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:07:20 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 74ms (Views: 70.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:08:10 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 88ms (Views: 84.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:08:24 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 46ms (Views: 44.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:09:54 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1939ms (Views: 1937.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:10:00 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 63ms (Views: 59.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 15:10:02 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 58ms (Views: 50.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:10:03 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 68ms (Views: 64.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:10:12 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 42ms (Views: 40.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:10:14 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 49ms (Views: 46.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:10:33 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 55ms (Views: 52.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:10:43 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 49ms (Views: 47.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:12:04 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 82ms (Views: 78.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:14:08 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 1827ms (Views: 1823.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:14:16 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 60ms (Views: 57.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 15:14:18 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 75ms (Views: 73.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 15:14:28 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1707ms (Views: 1704.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:14:33 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 79ms (Views: 77.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:14:40 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 72ms (Views: 68.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 15:14:41 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 143ms (Views: 138.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:14:45 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 72ms (Views: 69.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:14:49 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 94ms (Views: 91.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 15:14:53 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 106ms (Views: 101.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:15:23 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 135ms (Views: 131.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:15:47 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 59ms (Views: 56.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:15:56 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 49ms (Views: 45.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:18:08 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 72ms (Views: 68.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:18:15 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 46ms (Views: 44.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:18:23 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 92ms (Views: 89.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:18:27 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 47ms (Views: 45.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:19:32 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 1833ms (Views: 1828.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:19:43 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 48ms (Views: 46.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:19:50 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 2045ms (Views: 2043.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:20:07 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 2087ms (Views: 2085.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:20:22 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 52ms (Views: 47.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:20:23 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 105ms (Views: 101.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:21:00 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 1701ms (Views: 1698.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:21:10 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 80ms (Views: 77.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:21:13 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 167ms (Views: 161.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:21:47 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 41ms (Views: 39.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:21:56 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 50ms (Views: 45.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:21:58 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 153ms (Views: 148.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:22:15 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 69ms (Views: 66.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:22:19 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 67ms (Views: 64.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:22:43 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 49ms (Views: 47.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:22:56 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 51ms (Views: 48.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:23:01 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 56ms (Views: 52.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:23:09 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 49ms (Views: 47.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:23:29 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 72ms (Views: 69.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 15:23:31 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 72ms (Views: 70.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:23:33 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 188ms (Views: 184.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:27:14 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (5.3ms)
+Completed 200 OK in 2528ms (Views: 2524.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:27:31 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 110ms (Views: 107.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:27:38 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 63ms (Views: 58.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:27:50 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 84ms (Views: 81.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:28:02 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 91ms (Views: 88.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:28:03 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 96ms (Views: 93.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:28:05 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 124ms (Views: 115.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:28:06 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 137ms (Views: 133.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:28:06 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 149ms (Views: 98.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:29:28 +1100
+  
+SyntaxError (/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/controllers/pages_controller.rb:2: syntax error, unexpected '-', expecting ';' or '\n'
+  def project-1
+              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/controllers/pages_controller.rb:5: syntax error, unexpected '-', expecting ';' or '\n'
+  def project-2
+              ^):
+  
+app/controllers/pages_controller.rb:2: syntax error, unexpected '-', expecting ';' or '\n'
+app/controllers/pages_controller.rb:5: syntax error, unexpected '-', expecting ';' or '\n'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.2ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (87.9ms)
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:30:20 +1100
+  
+SyntaxError (/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/controllers/pages_controller.rb:14: syntax error, unexpected '-', expecting ';' or '\n'
+  def project-1
+              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/controllers/pages_controller.rb:17: syntax error, unexpected '-', expecting ';' or '\n'
+  def project-2
+              ^):
+  
+app/controllers/pages_controller.rb:14: syntax error, unexpected '-', expecting ';' or '\n'
+app/controllers/pages_controller.rb:17: syntax error, unexpected '-', expecting ';' or '\n'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.8ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.7ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (119.3ms)
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:33:24 +1100
+  
+SyntaxError (/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/controllers/pages_controller.rb:14: syntax error, unexpected '-', expecting ';' or '\n'
+  def project-1
+              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/controllers/pages_controller.rb:17: syntax error, unexpected '-', expecting ';' or '\n'
+  def project-2
+              ^):
+  
+app/controllers/pages_controller.rb:14: syntax error, unexpected '-', expecting ';' or '\n'
+app/controllers/pages_controller.rb:17: syntax error, unexpected '-', expecting ';' or '\n'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (8.1ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (95.9ms)
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:33:28 +1100
+  
+SyntaxError (/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/controllers/pages_controller.rb:14: syntax error, unexpected '-', expecting ';' or '\n'
+  def project-1
+              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/controllers/pages_controller.rb:17: syntax error, unexpected '-', expecting ';' or '\n'
+  def project-2
+              ^):
+  
+app/controllers/pages_controller.rb:14: syntax error, unexpected '-', expecting ';' or '\n'
+app/controllers/pages_controller.rb:17: syntax error, unexpected '-', expecting ';' or '\n'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.8ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (70.9ms)
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:34:04 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:27: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:36: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:47: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:58: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:69: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:80: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^):
+  
+app/views/pages/projects.html.erb:27: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/pages/projects.html.erb:36: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/pages/projects.html.erb:47: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/pages/projects.html.erb:58: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/pages/projects.html.erb:69: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/pages/projects.html.erb:80: syntax error, unexpected tIDENTIFIER, expecting ')'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (9.4ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.8ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (98.9ms)
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:34:20 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.3ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:27: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:36: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:47: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:58: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:69: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:80: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^):
+  
+app/views/pages/projects.html.erb:27: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/pages/projects.html.erb:36: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/pages/projects.html.erb:47: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/pages/projects.html.erb:58: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/pages/projects.html.erb:69: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/pages/projects.html.erb:80: syntax error, unexpected tIDENTIFIER, expecting ')'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (17.2ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.5ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (117.4ms)
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:34:59 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (3.1ms)
+Completed 500 Internal Server Error in 21ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:27: syntax error, unexpected tIDENTIFIER, expecting ')'
+ink_to 'w' pages_project1_path);@output_buffer.safe_append='
+                              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:36: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:47: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:58: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:69: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/projects.html.erb:80: syntax error, unexpected tIDENTIFIER, expecting ')'
+link_to '' pages_project1_path);@output_buffer.safe_append='
+                              ^):
+  
+app/views/pages/projects.html.erb:27: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/pages/projects.html.erb:36: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/pages/projects.html.erb:47: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/pages/projects.html.erb:58: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/pages/projects.html.erb:69: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/pages/projects.html.erb:80: syntax error, unexpected tIDENTIFIER, expecting ')'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (10.1ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.6ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (266.4ms)
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:35:41 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (220.9ms)
+Completed 500 Internal Server Error in 231ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `pages_project1_path' for #<#<Class:0x007fab48299fc8>:0x007fab43f7c588>
+Did you mean?  pages_project_1_path
+               pages_projects_path
+               pages_project_5_path
+               pages_project_4_path
+               pages_project_3_path
+               pages_project_2_path
+               pages_project_6_path
+               pages_projects_url
+               pages_project_1_url):
+    24: <!-- start projects -->
+    25: <div class="container white-bg">
+    26:   <div class="row project-page-section">
+    27:     <a href="<%= link_to '', pages_project1_path%>">
+    28:       <div class="col-xs-12 col-md-4 project-box project-orange">
+    29:         <h4>Project 1</h4>
+    30:         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+  
+app/views/pages/projects.html.erb:27:in `_app_views_pages_projects_html_erb__1856565700293935465_70186778224560'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.9ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (73.3ms)
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:36:46 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (230.4ms)
+Completed 500 Internal Server Error in 236ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `pages_project1_path' for #<#<Class:0x007fab48299fc8>:0x007fab42ef0070>
+Did you mean?  pages_project_1_path
+               pages_projects_path
+               pages_project_5_path
+               pages_project_4_path
+               pages_project_3_path
+               pages_project_2_path
+               pages_project_6_path
+               pages_projects_url
+               pages_project_1_url):
+    24: <!-- start projects -->
+    25: <div class="container white-bg">
+    26:   <div class="row project-page-section">
+    27:     <a href="<%= link_to '', pages_project1_path %>">
+    28:       <div class="col-xs-12 col-md-4 project-box project-orange">
+    29:         <h4>Project 1</h4>
+    30:         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+  
+app/views/pages/projects.html.erb:27:in `_app_views_pages_projects_html_erb__1856565700293935465_70186769548540'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (8.5ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.5ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (95.9ms)
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:40:44 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 84ms (Views: 80.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:40:47 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (24.2ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (30.9ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (241.2ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:41:08 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (5.9ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.8ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.1ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (220.0ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:41:12 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (3.5ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (98.8ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:41:25 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.3ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (4.0ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (99.8ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:41:40 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (4.5ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (97.5ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:41:44 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (4.5ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.4ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (100.0ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:41:52 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (5.8ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.4ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (111.5ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:42:26 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (4.2ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.7ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (121.4ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:43:11 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (6.3ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (135.7ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:43:15 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.3ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (4.1ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (102.1ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:43:18 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (3.4ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.6ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (91.8ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:43:22 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (4.3ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (98.6ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:43:25 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (9.0ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (143.2ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:43:36 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (3.6ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.4ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (95.7ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:43:39 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (5.4ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.5ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (102.2ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:43:52 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (7.1ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (106.6ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:43:56 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (3.9ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.5ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (28.5ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (126.9ms)
+Started GET "/project1.html.erb" for ::1 at 2017-03-09 15:44:14 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (6.7ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (112.8ms)
+Started GET "/pages/project1.html.erb" for ::1 at 2017-03-09 15:44:29 +1100
+  
+ActionController::RoutingError (No route matches [GET] "/pages/project1.html.erb"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.7.1) lib/puma/configuration.rb:232:in `call'
+puma (3.7.1) lib/puma/server.rb:578:in `handle_request'
+puma (3.7.1) lib/puma/server.rb:415:in `process_client'
+puma (3.7.1) lib/puma/server.rb:275:in `block in run'
+puma (3.7.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (3.8ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (92.5ms)
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:44:32 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 100ms (Views: 95.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:45:17 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 119ms (Views: 113.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:45:27 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 64ms (Views: 58.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:45:30 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 81ms (Views: 77.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:45:31 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 86ms (Views: 82.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:45:33 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 127ms (Views: 122.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:45:35 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 152ms (Views: 148.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:45:37 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 124ms (Views: 119.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:46:03 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 63ms (Views: 61.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:47:16 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 155ms (Views: 151.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 15:47:20 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 97ms (Views: 95.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:47:21 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 262ms (Views: 250.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:47:22 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 88ms (Views: 85.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:47:23 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 136ms (Views: 124.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:47:24 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 118ms (Views: 113.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:47:25 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 119ms (Views: 115.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:47:59 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 63ms (Views: 58.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:48:01 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 124ms (Views: 119.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:48:10 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 168ms (Views: 161.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:48:17 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 80ms (Views: 77.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:48:24 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 82ms (Views: 78.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:48:34 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 77ms (Views: 72.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:48:46 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 84ms (Views: 77.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:48:54 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 67ms (Views: 63.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project6" for ::1 at 2017-03-09 15:48:55 +1100
+Processing by PagesController#project6 as HTML
+  Rendering pages/project6.html.erb within layouts/application
+  Rendered pages/project6.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 254ms (Views: 250.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:48:57 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 169ms (Views: 130.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-03-09 15:48:57 +1100
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered pages/project5.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 271ms (Views: 266.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-03-09 15:49:09 +1100
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered pages/project5.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 50ms (Views: 47.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-03-09 15:49:15 +1100
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered pages/project5.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 74ms (Views: 71.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:49:22 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 77ms (Views: 73.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:49:23 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 86ms (Views: 84.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:50:28 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 58ms (Views: 55.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:50:36 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 140ms (Views: 132.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:50:40 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 82ms (Views: 69.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:50:43 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 145ms (Views: 137.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:50:48 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 65ms (Views: 57.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:50:51 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 155ms (Views: 143.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:50:53 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 87ms (Views: 83.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project2" for ::1 at 2017-03-09 15:50:54 +1100
+Processing by PagesController#project2 as HTML
+  Rendering pages/project2.html.erb within layouts/application
+  Rendered pages/project2.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 130ms (Views: 121.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:50:59 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 123ms (Views: 116.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:51:00 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 276ms (Views: 270.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:51:06 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 124ms (Views: 120.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:51:06 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 110ms (Views: 108.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project3" for ::1 at 2017-03-09 15:51:08 +1100
+Processing by PagesController#project3 as HTML
+  Rendering pages/project3.html.erb within layouts/application
+  Rendered pages/project3.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 90ms (Views: 87.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 15:51:11 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 96ms (Views: 94.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:51:12 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (28.6ms)
+Completed 200 OK in 237ms (Views: 229.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project3" for ::1 at 2017-03-09 15:51:13 +1100
+Processing by PagesController#project3 as HTML
+  Rendering pages/project3.html.erb within layouts/application
+  Rendered pages/project3.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 120ms (Views: 114.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:51:14 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 148ms (Views: 144.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-03-09 15:51:15 +1100
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered pages/project5.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 96ms (Views: 92.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:51:16 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 130ms (Views: 125.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project4" for ::1 at 2017-03-09 15:51:17 +1100
+Processing by PagesController#project4 as HTML
+  Rendering pages/project4.html.erb within layouts/application
+  Rendered pages/project4.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 97ms (Views: 94.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:51:18 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 327ms (Views: 317.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project6" for ::1 at 2017-03-09 15:51:19 +1100
+Processing by PagesController#project6 as HTML
+  Rendering pages/project6.html.erb within layouts/application
+  Rendered pages/project6.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 100ms (Views: 81.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:51:20 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 173ms (Views: 160.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:51:34 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 118ms (Views: 115.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:51:40 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 67ms (Views: 62.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:51:46 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 78ms (Views: 75.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:51:57 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 84ms (Views: 80.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project6" for ::1 at 2017-03-09 15:51:59 +1100
+Processing by PagesController#project6 as HTML
+  Rendering pages/project6.html.erb within layouts/application
+  Rendered pages/project6.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 125ms (Views: 121.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:52:01 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 182ms (Views: 177.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-03-09 15:52:02 +1100
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered pages/project5.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 93ms (Views: 89.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:52:04 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 113ms (Views: 109.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project4" for ::1 at 2017-03-09 15:52:05 +1100
+Processing by PagesController#project4 as HTML
+  Rendering pages/project4.html.erb within layouts/application
+  Rendered pages/project4.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 100ms (Views: 98.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:52:09 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 155ms (Views: 150.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project3" for ::1 at 2017-03-09 15:52:11 +1100
+Processing by PagesController#project3 as HTML
+  Rendering pages/project3.html.erb within layouts/application
+  Rendered pages/project3.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 92ms (Views: 90.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:52:15 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 81ms (Views: 78.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:52:16 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 140ms (Views: 134.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:52:18 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (26.3ms)
+Completed 200 OK in 141ms (Views: 138.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:52:45 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 92ms (Views: 88.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:53:14 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 163ms (Views: 157.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:53:14 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 130ms (Views: 125.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:53:15 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 137ms (Views: 133.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project2" for ::1 at 2017-03-09 15:53:16 +1100
+Processing by PagesController#project2 as HTML
+  Rendering pages/project2.html.erb within layouts/application
+  Rendered pages/project2.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 117ms (Views: 108.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:53:17 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 197ms (Views: 179.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project3" for ::1 at 2017-03-09 15:53:17 +1100
+Processing by PagesController#project3 as HTML
+  Rendering pages/project3.html.erb within layouts/application
+  Rendered pages/project3.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 159ms (Views: 155.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:53:18 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 345ms (Views: 338.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-03-09 15:53:25 +1100
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered pages/project5.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 311ms (Views: 306.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:53:27 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 547ms (Views: 530.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:53:29 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 591ms (Views: 585.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-09 15:53:37 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 334ms (Views: 329.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:53:39 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 346ms (Views: 337.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project2" for ::1 at 2017-03-09 15:53:42 +1100
+Processing by PagesController#project2 as HTML
+  Rendering pages/project2.html.erb within layouts/application
+  Rendered pages/project2.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 378ms (Views: 372.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:53:43 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 243ms (Views: 237.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 15:53:58 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 94ms (Views: 92.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:54:03 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 109ms (Views: 106.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:54:05 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (14.5ms)
+Completed 200 OK in 227ms (Views: 221.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:54:10 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 252ms (Views: 244.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:54:20 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 311ms (Views: 307.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:54:25 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 173ms (Views: 168.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:54:32 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 369ms (Views: 350.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 15:54:33 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 264ms (Views: 227.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-09 15:54:33 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 279ms (Views: 255.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-09 15:54:36 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 381ms (Views: 378.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-09 15:54:40 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 191ms (Views: 180.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project2" for ::1 at 2017-03-09 15:54:41 +1100
+Processing by PagesController#project2 as HTML
+  Rendering pages/project2.html.erb within layouts/application
+  Rendered pages/project2.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 168ms (Views: 165.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:56:57 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (23.2ms)
+Completed 200 OK in 416ms (Views: 408.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 15:59:53 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 144ms (Views: 140.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:00:10 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 139ms (Views: 134.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:00:30 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 78ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:00:39 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 80ms (Views: 76.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:00:41 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 140ms (Views: 136.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:01:22 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 87ms (Views: 83.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:01:36 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 79ms (Views: 70.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:01:45 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 78ms (Views: 75.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:02:30 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 101ms (Views: 97.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:05:02 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 116ms (Views: 113.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:06:40 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 209ms (Views: 205.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:06:46 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 3015ms (Views: 3012.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:07:34 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 53ms (Views: 50.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:07:42 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 57ms (Views: 54.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:08:22 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 59ms (Views: 57.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:08:47 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 87ms (Views: 83.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:09:08 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 112ms (Views: 104.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:10:30 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 57ms (Views: 52.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:10:39 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 63ms (Views: 59.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:10:57 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 67ms (Views: 65.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:11:03 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 99ms (Views: 93.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:11:17 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 3255ms (Views: 3253.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:12:04 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 194ms (Views: 191.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:12:28 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 2683ms (Views: 2681.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:12:42 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 3351ms (Views: 3348.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:13:02 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 3185ms (Views: 3183.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:13:11 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 2720ms (Views: 2716.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:13:20 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 2738ms (Views: 2732.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:13:33 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 2923ms (Views: 2919.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:13:49 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 3593ms (Views: 3588.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:14:04 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 2800ms (Views: 2797.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:14:15 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 2822ms (Views: 2820.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:15:14 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 130ms (Views: 125.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:16:29 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 104ms (Views: 101.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:18:13 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 98ms (Views: 96.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:20:01 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 129ms (Views: 126.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:20:13 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 93ms (Views: 91.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:20:19 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 119ms (Views: 114.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:21:29 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 178ms (Views: 175.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:22:15 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 97ms (Views: 92.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:22:29 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 63ms (Views: 59.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:22:32 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 127ms (Views: 121.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:22:34 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (16.2ms)
+Completed 200 OK in 251ms (Views: 246.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:22:36 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 170ms (Views: 158.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:23:15 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 131ms (Views: 127.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:25:36 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (18.2ms)
+Completed 200 OK in 219ms (Views: 210.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:26:19 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 188ms (Views: 185.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:26:32 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 89ms (Views: 84.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:26:42 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 140ms (Views: 136.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:28:21 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 117ms (Views: 114.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:28:26 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 89ms (Views: 87.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:28:46 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 66ms (Views: 63.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:29:19 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 109ms (Views: 105.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:30:40 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 136ms (Views: 132.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-09 16:31:04 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 131ms (Views: 129.3ms | ActiveRecord: 0.0ms)
+
+
