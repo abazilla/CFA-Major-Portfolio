@@ -5,16 +5,16 @@
       <div class="col-md-12">
         <ul class="nav navbar-nav">
           <div class="col-md-3">
-            <li><%= link_to 'HOME', root_path, class: "menu-text-dark"%></li>
+            <li><%= link_to 'HOME', root_path, class: "text-white"%></li>
           </div>
           <div class="col-md-3">
-            <li><%= link_to 'PROJECTS', pages_projects_path, class: "menu-text-dark"%></li>
+            <li><%= link_to 'PROJECTS', pages_projects_path, class: "text-white"%></li>
           </div>
           <div class="col-md-3">
-            <li><%= link_to 'CONTACT', pages_contact_path, class: "menu-text-dark"%></li>
+            <li><%= link_to 'CONTACT', pages_contact_path, class: "text-white"%></li>
           </div>
           <div class="col-md-3">
-            <li><%= link_to 'FUN', pages_fun_path, class: "menu-text-dark"%></li>
+            <li><%= link_to 'FUN', pages_fun_path, class: "text-white"%></li>
           </div>
         </ul>
       </div>
@@ -29,23 +29,26 @@
 <div class="container">
   <div class="email-form">
     <div class="form-group row">
-      <div class="col-xs-12"><h3 class="menu-text-white">Shoot me an e-mail</h3></div>
-      <label for="example-email-input" class="col-2 col-form-label menu-text-white">Your e-mail address</label>
+      <h2><a href="mailto:patrickabadilla2@gmail.com">patrick.abadilla2@gmail.com</a></h2>
+      <br />
+      <br />
+      <div class="col-xs-1a2"><h3 class="text-white">or shoot me an e-mail below</h3></div>
+      <label for="example-email-input" class="col-2 col-form-label text-white">Your e-mail address</label>
       <div class="col-10">
-        <input class="form-control" type="text" value="patrick@example.com" id="example-email-input">
+        <input class="form-control" type="text" placeholder="patrick@example.com" id="example-email-input">
       </div>
       <br />
-      <label for="example-text-input" class="col-2 col-form-label menu-text-white">Subject</label>
+      <label for="example-text-input" class="col-2 col-form-label text-white">Subject</label>
       <div class="col-10">
-        <input class="form-control" type="email" value="" id="example-text-input">
+        <input class="form-control" type="email" placeholder="eg Job offer!"value="" id="example-text-input">
       </div>
       <br />
       <div class="form-group">
-        <label for="exampleTextarea" class="menu-text-white">What would you like to say?</label>
-        <textarea class="form-control" id="exampleTextarea" rows="3"></textarea>
+        <label for="exampleTextarea" class="text-white">What would you like to say?</label>
+        <textarea class="form-control" id="exampleTextarea" placeholder="For example, offer me an interview, or a job!                                                                                                                                                                 ... please"rows="9"></textarea>
       </div>
+      <br />
       <button type="submit" class="btn btn-primary">Send</button>
-
     </div>
   </div>
 </div>
