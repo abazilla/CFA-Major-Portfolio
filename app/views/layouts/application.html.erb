@@ -1,49 +1,30 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Portfolio</title>
-    <%= csrf_meta_tags %>
+<head>
+  <title>Portfolio</title>
+  <%= csrf_meta_tags %>
 
-    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
-    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
-  </head>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  <script src="https://use.fontawesome.com/9097c39520.js"></script>
 
-  <body>
-    <!-- start menubar -->
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <ul class="nav navbar-nav">
-            <div class="col-md-3">
-              <li><a href="#">HOME</a></li>
-            </div>
-            <div class="col-md-3">
-              <li><a href="#">PROJECTS</a></li>
-            </div>
-            <div class="col-md-3">
-              <li><a href="#">CONTACT</a></li>
-            </div>
-            <div class="col-md-3">
-              <li><a href="#">FUN</a></li>
-            </div>
-          </ul>
-        </div>
-      </div>
+</head>
+
+<body>
+
+  <%= yield %>
+  <!-- start social-media -->
+  <div class="container dark-bg ">
+    <div class="row small-section-style">
+      <div class="col-md-1"></div>
+      <div class="col-md-2"><a href="https://github.com/abazilla"><i class="fa fa-github-alt fa-5x"></i></a></div>
+      <div class="col-md-2"><a href="https://www.linkedin.com/in/patrick-abadilla-9a6a1a67/"><i class="fa fa-linkedin fa-5x"></i></a></div>
+      <div class="col-md-2"><a href="mailto:patrick.abadilla2@gmail.com"><i class="fa fa-envelope fa-5x"></i></a></div>
+      <div class="col-md-2"><a href="https://www.instagram.com/aba_gram/"><i class="fa fa-instagram fa-5x"></i></a></div>
+      <div class="col-md-2"><a href="https://twitter.com/pna_23"><i class="fa fa-twitter fa-5x"></i></a></div>
+      <div class="col-md-1"></div>
     </div>
-    <!--end menu bar-->
-    <%= yield %>
-    <!-- start social-media -->
-    <div class="container dark-bg ">
-      <div class="row small-section-style">
-        <div class="col-md-1"></div>
-        <div class="col-md-2"><img src="<%= asset_path 'github.png'%>" class="icon"></div>
-        <div class="col-md-2"><img src="<%= asset_path 'linkedin.png'%>" class="icon"></div>
-        <div class="col-md-2"><img src="<%= asset_path 'mail.png'%>" class="icon"></div>
-        <div class="col-md-2"><img src="<%= asset_path 'instagram.png'%>" class="icon"></div>
-        <div class="col-md-2"><img src="<%= asset_path 'twitter.png'%>" class="icon"></div>
-        <div class="col-md-1"></div>
-      </div>
-    </div>
-        <!-- end social-media -->
-  </body>
+  </div>
+  <!-- end social-media -->
+</body>
 </html>
