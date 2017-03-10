@@ -14482,3 +14482,31 @@ Processing by PagesController#fun as HTML
 Completed 200 OK in 164ms (Views: 162.1ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2017-03-10 15:50:06 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2253.3ms)
+Completed 200 OK in 2407ms (Views: 2389.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-10 15:50:21 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 92ms (Views: 89.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-10 15:50:22 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (24.9ms)
+Completed 200 OK in 117ms (Views: 114.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-10 15:50:23 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 142ms (Views: 137.8ms | ActiveRecord: 0.0ms)
+
+
