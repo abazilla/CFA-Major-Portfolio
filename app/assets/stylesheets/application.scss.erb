@@ -10,6 +10,8 @@ $white-color: #ffffff;
 $accent-color: #EC0A30;
 $accent-light-color: #fa0c34;
 $grey-color: #F5F5F5;
+$grav-color: #4a1e69;
+$grav-light-color: #502370;
 
 body {
   background-color: $primary-color;
@@ -44,6 +46,12 @@ h3 {
 
 }
 
+h4 {
+  font-size: 24px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
 .section-header {
   margin-bottom: 30px;
 }
@@ -73,12 +81,6 @@ a:hover, a:focus {
 
 a:not( :focus ) {
   transition: all 0.3s ease;
-}
-
-a:active {
-  color: $accent-color;
-  text-decoration: none;
-  background-color: transparent;
 }
 
 .container {
@@ -115,6 +117,18 @@ a:active {
   text-align: center;
 }
 
+.red-line {
+  background-color: #EC0A30;
+  width: 6px;
+  height: 260px;
+  padding: 0px;
+  margin: 0 8px;
+  border: 0px;
+  float: left;
+}
+
+// Banner Start
+
 .banner-style {
   padding: 45vh 0em;
   height: 100vh;
@@ -122,16 +136,6 @@ a:active {
 
 .banner-margin {
   margin-top: -20vh;
-}
-
-.red-line {
-  background-color: $accent-color;
-  width: 6px;
-  height: 260px;
-  padding: 0px;
-  margin: 0 8px;
-  border: 0px;
-  float: left;
 }
 
 .banner-text {
@@ -161,6 +165,7 @@ a:active {
   height: 45px;
   width: 170px;
   font-weight: 400;
+  margin-top: 15px;
 }
 
 .btn:hover {
@@ -233,14 +238,19 @@ a:active {
 }
 
 .project-section {
-  padding: 15em 5em;
+  padding: 15em 15em;
   text-align: center;
 }
 
 .project-box {
-  height: 450px;
-  border: 15px solid $white-color;
-  padding: 5em 2em;
+  height: 420px;
+  // border-top: 4px solid $white-color;
+  // border-bottom: 4px solid $white-color;
+  // border-left: 35px solid $white-color;
+  // border-right: 35px solid $white-color;
+  // padding: 5em 2em;
+  width: 31% !important;
+  margin: 1%;
 }
 
 .project-blue {
@@ -248,9 +258,26 @@ a:active {
   color: $white-color;
 }
 
-.project-pink {
-  background-color: #e363a9;
+.hire-style{
+
+}
+
+.project-grav {
+  background: linear-gradient(to right, $grav-color 50%, $grav-light-color 50%);
+  background-size: 200% 100%;
+  background-position:right bottom;
   color: $white-color;
+}
+
+.project-grav:hover {
+  background-position: left bottom;
+  transition: all 0.6s ease;
+  color: white;
+}
+
+.project-grav:not( :hover ) {
+  background-position:right bottom;
+  transition: all 0.6s ease;
 }
 
 .project-orange {
@@ -259,7 +286,19 @@ a:active {
 }
 
 .project-sub-text {
-  font-size: 14px;
+  font-size: 20px;
+  margin: 5px;
+}
+
+.project-header {
+  width: 20%
+}
+
+.project-image {
+  opacity:0.8;
+  width: 150px;
+  height: 150px;
+  margin: 75px 15px 55px 15px;
 }
 
 //Projects page
@@ -309,3 +348,6 @@ label {
   background-position:right bottom;
   transition: all 0.6s ease;
 }
+
+//breakpoints
+//1070px
