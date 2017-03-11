@@ -5,13 +5,14 @@
 // font-family: 'Roboto', sans-serif;
 // font-family: 'Lato', sans-serif;
 
-$primary-color: #131b28;
+$primary-color: #0f1620;
 $white-color: #ffffff;
 $accent-color: #EC0A30;
 $accent-light-color: #fa0c34;
 $grey-color: #F5F5F5;
 $grav-color: #4a1e69;
 $grav-light-color: #502370;
+$darken-color: rgba(0,0,0,0.9);
 
 body {
   background-color: $primary-color;
@@ -132,6 +133,11 @@ a:not( :focus ) {
 .banner-style {
   padding: 45vh 0em;
   height: 100vh;
+  background-image: url('<%= asset_path "setup.png"%>');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  overflow: hidden;
 }
 
 .banner-margin {
@@ -154,6 +160,8 @@ a:not( :focus ) {
 .align-right {
   text-align: right;
 }
+
+//banner end
 
 .btn-primary {
   // background-color: $accent-color;
@@ -221,6 +229,13 @@ a:not( :focus ) {
   margin: 0 3vw;
 }
 
+//about start
+.about-me {
+  padding: 30vh 25vw;
+  text-align: center;
+}
+
+// skills start
 .skills-icon {
   font-size: 10em;
   margin: 50px 0;
@@ -312,7 +327,7 @@ a:not( :focus ) {
 
 .map-bg {
   background-image: url("<%= asset_path 'map.png' %>");
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
