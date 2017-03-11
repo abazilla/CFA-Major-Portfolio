@@ -29,7 +29,7 @@ At this point, I found a design that I really liked (heavily influenced by strv.
 ![Imgur](http://i.imgur.com/IxlilEL.png)
 
 At this point, I designed what most of the website would roughly look like.
-![Imgur](http://i.imgur.com/R6HtAxQ.png
+![Imgur](http://i.imgur.com/R6HtAxQ.png)
 
 ### Building
 The building process took longer than expected, however ultimately the design that was finalised was kept.
