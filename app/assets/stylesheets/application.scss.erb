@@ -119,7 +119,7 @@ a:not( :focus ) {
 }
 
 .red-line {
-  background-color: #EC0A30;
+  background-color: $accent-color;
   width: 6px;
   height: 260px;
   padding: 0px;
@@ -259,11 +259,6 @@ a:not( :focus ) {
 
 .project-box {
   height: 420px;
-  // border-top: 4px solid $white-color;
-  // border-bottom: 4px solid $white-color;
-  // border-left: 35px solid $white-color;
-  // border-right: 35px solid $white-color;
-  // padding: 5em 2em;
   width: 31% !important;
   margin: 1%;
 }
@@ -333,7 +328,12 @@ a:not( :focus ) {
 }
 
 .map-section-style {
-  max-height: 90vh;
+  height: 100vh;
+}
+
+.map-text {
+  margin-top: 540px;
+  min-width: 130px;
 }
 
 .email-form {
@@ -362,6 +362,14 @@ label {
 .hire-style:not( :hover ) {
   background-position:right bottom;
   transition: all 0.6s ease;
+}
+
+//Fun Page
+
+.zappar {
+  width: 600px;
+  height: 600px;
+  padding: 5em;
 }
 
 //breakpoints
