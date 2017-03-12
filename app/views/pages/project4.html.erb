@@ -4,16 +4,16 @@
     <div class="row">
       <ul class="nav navbar-nav">
         <div class="col-md-3">
-          <li><%= link_to 'HOME', root_path, class: "text-dark"%></li>
+          <li><%= link_to 'HOME', root_path, class: "text-white"%></li>
         </div>
         <div class="col-md-3">
-          <li><%= link_to 'PROJECTS', pages_projects_path, class: "text-dark"%></li>
+          <li><%= link_to 'PROJECTS', pages_projects_path, class: "text-white"%></li>
         </div>
         <div class="col-md-3">
-          <li><%= link_to 'CONTACT', pages_contact_path, class: "text-dark"%></li>
+          <li><%= link_to 'CONTACT', pages_contact_path, class: "text-white"%></li>
         </div>
         <div class="col-md-3">
-          <li><%= link_to 'FUN', pages_fun_path, class: "text-dark active"%></li>
+          <li><%= link_to 'FUN', pages_fun_path, class: "text-white active"%></li>
         </div>
       </ul>
     </div>
@@ -21,28 +21,60 @@
 </div>
 <!--end menu bar-->
 <!-- start projectheader -->
-<div class="container grey-bg">
+<div class="container project-pna">
   <div class="row project-section">
-    <h2 class="section-header">PROJECT NAME</h2>
-
+    <h2 class="section-header">PNA</h2>
+    <p>Personal Portfolio</p>
   </div>
 </div>
 <!-- end project header -->
 <!-- start project info -->
 <div class="container white-bg">
-  <div class="row project-section">
-    <h2 class="section-header">fun</h2>
-
+  <div class="row project-section about-me">
+    <div class="col-xs-12"><h2 class="section-header">About</h2></div>
+    <div class="col-md-2 col-xs-12 col-md-offset-3">
+      <p>Built on</p>
+    </div>
+    <div class="col-md-2 col-xs-12">
+      <p>GitHub Page</p>
+    </div>
+    <div class="col-md-2 col-xs-12">
+      <p>Website Link</p>
+    </div>
+    <div class="col-md-2 col-xs-12 col-md-offset-3">
+      <i class="fa devicon-html5-plain project-sub-text"></i>
+      <i class="fa devicon-css3-plain project-sub-text"></i>
+      <i class="fa devicon-sass-plain project-sub-text"></i>
+      <i class="fa devicon-bootstrap-plain project-sub-text"></i>
+      <i class="fa devicon-ruby-plain project-sub-text"></i>
+      <i class="fa devicon-rails-plain project-sub-text"></i>
+      <i class="fa devicon-photoshop-plain project-sub-text"></i>
+    </div>
+    <div class="col-md-2 col-xs-12">
+      <a href="https://github.com/abazilla/CFA-Major-Portfolio" target="_blank" class="text-dark"><i class="fa fa-github-alt project-page-icon "></i></a>
+    </div>
+    <div class="col-md-2 col-xs-12">
+      <a href="https://pnaportfolio.herokuapp.com/" target="_blank" class="text-dark"><p>pnaportfolio.herokuapp.com</p></i></a>
+    </div>
+    <div class="col-xs-12">
+      <br />
+      <p class="project-page-text">This project was started during the Coder Factory Academy Bootcamp. The goal was to create a portfolio that we would continue to add on to and improve throughout the duration of the course. It was a good test of our skills in web design and development. </p>
+      <p class="project-page-text">There was a long design process involved in creating this website (may have been heavily influenced by the documentary Abstract: The Art of Design on Netflix, haha), and there were a few iterations of the website, and a lengthy process on the final design to decide it's finer details.</p>
+    </div>
+    <br />
+    <div class="col-xs-12"><br /><br /><img src="<%= asset_path 'pna-1.png'%>" alt="" class="project-img"></div>
+    <div class="col-xs-12"><br /><br /><img src="<%= asset_path 'pna-2.png'%>" alt="" class="project-img"></div>
+    <div class="col-xs-12"><br /><br /><img src="<%= asset_path 'pna-3.png'%>" alt="" class="project-img"></div>
   </div>
 </div>
 <!-- end project info -->
 <!-- start hire-me -->
 <a href="#">
-<div class="container hire-style">
-  <div class="row small-section-style">
-    <h3>Interested in my work?</h3>
-    <h2>CONTACT ME</h2>
+  <div class="container hire-style">
+    <div class="row small-section-style">
+      <h3>Interested in my work?</h3>
+      <h2>CONTACT ME</h2>
+    </div>
   </div>
-</div>
 </a>
 <!-- end hire-me -->
