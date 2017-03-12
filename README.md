@@ -14,8 +14,8 @@ https://pnaportfolio.herokuapp.com/
 Best used with Google Chrome.
 
 Please also download the phone app Zappar for the Fun section:
-iOS: https://itunes.apple.com/au/app/zappar/id429885268?mt=8
-Android: https://play.google.com/store/apps/details?id=com.zappar.Zappar&hl=en
+* iOS: https://itunes.apple.com/au/app/zappar/id429885268?mt=8
+* Android: https://play.google.com/store/apps/details?id=com.zappar.Zappar&hl=en
 
 ### Design
 There was a long design process involved in creating this website (may have been heavily influenced by the documentary Abstract: The Art of Design on Netflix, haha), and there were a few iterations of the website, and a lengthy process on the final design to decide it's finer details.
