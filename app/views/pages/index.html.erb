@@ -4,16 +4,16 @@
     <div class="row">
       <div class="col-md-12">
         <ul class="nav navbar-nav">
-          <div class="col-md-3 text-white">
+          <div class="col-lg-3 col-md-12 text-white">
             <li><%= link_to 'HOME', root_path %></li>
           </div>
-          <div class="col-md-3">
+          <div class="col-lg-3 col-md-12">
             <li><%= link_to 'PROJECTS', pages_projects_path %></li>
           </div>
-          <div class="col-md-3">
+          <div class="col-lg-3 col-md-12">
             <li><%= link_to 'CONTACT', pages_contact_path %></li>
           </div>
-          <div class="col-md-3">
+          <div class="col-lg-3 col-md-12">
             <li><%= link_to 'FUN', pages_fun_path %></li>
           </div>
         </ul>
@@ -27,12 +27,18 @@
 <header class="dark-bg">
   <div class="row banner-style">
     <div class="banner-margin">
-      <div class="col-md-6 align-right align-middle banner-text">
+      <div class="col-md-12 mini-banner">
+        <h1>PNA</h1>
+        <div class="red-line2"></div>
+        <h2>Web Developer</h2>
+        <p>Nice to meet you.</p>
+      </div>
+      <div class="col-md-12 col-lg-6 align-right align-middle banner-text">
         <h1>PNA</h1>
         <p class="banner-para-style"> Hey! <br /> Nice to meet you.</p>
       </div>
-    <div class="red-line"></div>
-      <div class="col-md-6 align-left align-middle banner-text web-dev-text">
+      <div class="red-line"></div>
+      <div class="col-md-12 col-lg-6 align-left align-middle banner-text web-dev-text">
         <h2>Web Developer</h2>
         <p class="banner-para-style">Junior, very junior. <br /> I'm a good learner though</p>
       </div>
@@ -60,39 +66,39 @@
   <div class="row section-style">
     <div class="row">
       <div class="col-xs-12"><h2>Skills</h2></div>
-      <div class="col-xs-12 col-md-4">
+      <div class="col-xs-6 col-md-4">
         <i class="fa devicon-html5-plain skills-icon"></i>
         <p class="text-dark">html5</p>
       </div>
-      <div class="col-xs-12 col-md-4 ">
+      <div class="col-xs-6 col-md-4 ">
         <i class="fa devicon-css3-plain skills-icon"></i>
         <p class="text-dark">css3</p>
       </div>
-      <div class="col-xs-12 col-md-4">
+      <div class="col-xs-6 col-md-4">
         <i class="fa devicon-bootstrap-plain skills-icon"></i>
         <p class="text-dark">bootstrap</p>
       </div>
-      <div class="col-xs-12 col-md-4">
+      <div class="col-xs-6 col-md-4">
         <i class="fa devicon-sass-plain skills-icon"></i>
         <p class="text-dark">sass</p>
       </div>
-      <div class="col-xs-12 col-md-4">
+      <div class="col-xs-6 col-md-4">
         <i class="fa devicon-ruby-plain skills-icon"></i>
         <p class="text-dark">ruby</p>
       </div>
-      <div class="col-xs-12 col-md-4 ">
+      <div class="col-xs-6 col-md-4 ">
         <i class="fa devicon-rails-plain skills-icon"></i>
         <p class="text-dark">rails</p>
       </div>
-      <div class="col-xs-12 col-md-4">
+      <div class="col-xs-6 col-md-4">
         <i class="fa devicon-javascript-plain skills-icon"></i>
         <p class="text-dark">javascript</p>
       </div>
-      <div class="col-xs-12 col-md-4 ">
+      <div class="col-xs-6 col-md-4 ">
         <i class="fa devicon-react-original skills-icon"></i>
         <p class="text-dark">react</p>
       </div>
-      <div class="col-xs-12 col-md-4">
+      <div class="col-xs-6 col-md-4">
         <i class="fa devicon-photoshop-plain skills-icon"></i>
         <p class="text-dark">photoshop</p>
       </div>
@@ -101,15 +107,14 @@
 </div>
 <!-- end skills -->
 <!-- start projects -->
-<div class="container-fluid white-bg">
-  <div class="row project-section">
+<div class="container white-bg">
+  <div class="row project-page-section">
     <h2 class="section-header">Projects</h2>
     <a href="/pages/project1">
       <div class="col-xs-12 col-md-4 project-box project-poke">
-
-      <img src="<%= asset_path 'pokeball.png'%>" alt="" class="project-circle">
-      <h4>Pokemon</h4>
-      <i class="fa devicon-ruby-plain project-sub-text"></i>
+        <img src="<%= asset_path 'pokeball.png'%>" alt="" class="project-circle">
+        <h4>Pokemon</h4>
+        <i class="fa devicon-ruby-plain project-sub-text"></i>
       </div>
     </a>
     <a href="/pages/project2">
@@ -128,8 +133,7 @@
         <i class="fa devicon-ruby-plain project-sub-text"></i>
         <i class="fa devicon-photoshop-plain project-sub-text"></i>
       </div>
-    </a>
-    <div class="col-xs-12"><a href="/pages/projects"><button type="submit" class="btn btn-primary">View More</button></a></div>
+    </a></div>
   </div>
 </div>
 <!-- end projects -->
@@ -144,4 +148,3 @@
   </div>
 </a>
 <!-- end hire-me -->
-<script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>

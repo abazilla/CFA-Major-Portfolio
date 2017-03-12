@@ -30,7 +30,6 @@ h1 {
   font-size: 108px;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-
 }
 
 h2 {
@@ -360,10 +359,11 @@ p a:hover {
 
 .project-img {
   max-width: 50vw;
+  margin-bottom: 2vh;
 }
 
 .project-page-text {
-  padding: 0 15vw;
+  padding: 0 13vw;
 }
 
 //Contacts page
@@ -380,7 +380,7 @@ p a:hover {
 }
 
 .map-text {
-  margin-top: 540px;
+  margin-top: -8vh;
   min-width: 130px;
 }
 
@@ -422,3 +422,79 @@ label {
 
 //breakpoints
 //1070px
+
+.mini-banner, .red-line2 {
+  display: none;
+}
+
+.red-line2 {
+  background-color: $accent-color;
+  width: 28vw;
+  height: 6px;
+  padding: 0px;
+  margin: 0 8px 0 37.1vw;
+  border: 0px;
+  float: left;
+}
+
+@media only screen and (max-width: 1070px) {
+  .red-line, .web-dev-text, .banner-para-style, .banner-text {
+    display: none;
+  }
+
+  .align-left, .align-right {
+    text-align: center;
+  }
+
+  .banner-text {
+    width: 50%;
+  }
+
+  .mini-banner, .red-line2 {
+    display: inline;
+  }
+
+  .nav {
+    font-size: 22px;
+  }
+
+  .project-page-text {
+    padding: 0 0 1vh 0;
+  }
+
+  .project-img {
+    max-width: 75vw;
+  }
+
+  .project-section {
+    height: 100vh;
+  }
+
+  .about-me {
+    padding: 25vh 10vw;
+  }
+
+  h1 {
+    font-size: 150px;
+  }
+
+  h2 {
+    font-size: 60px;
+  }
+
+  h3 {
+    font-size: 50px;
+  }
+
+  h4 {
+    font-size: 42px;
+  }
+
+  p {
+    font-size: 36px;
+  }
+
+  .email-text {
+    font-size: 34px;
+  }
+}
