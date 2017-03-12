@@ -16671,3 +16671,185 @@ Processing by PagesController#index as HTML
 Completed 200 OK in 149ms (Views: 146.4ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2017-03-12 17:24:38 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (26.4ms)
+Completed 200 OK in 376ms (Views: 359.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-12 17:24:45 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 134ms (Views: 131.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-12 17:24:48 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (15.2ms)
+Completed 200 OK in 108ms (Views: 104.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-12 17:24:50 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 102ms (Views: 98.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-12 17:24:51 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 127ms (Views: 125.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-03-12 17:24:52 +1100
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (11.1ms)
+Completed 200 OK in 162ms (Views: 156.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project2" for ::1 at 2017-03-12 17:24:52 +1100
+Processing by PagesController#project2 as HTML
+  Rendering pages/project2.html.erb within layouts/application
+  Rendered pages/project2.html.erb within layouts/application (14.6ms)
+Completed 200 OK in 158ms (Views: 155.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project3" for ::1 at 2017-03-12 17:24:53 +1100
+Processing by PagesController#project3 as HTML
+  Rendering pages/project3.html.erb within layouts/application
+  Rendered pages/project3.html.erb within layouts/application (12.8ms)
+Completed 200 OK in 327ms (Views: 324.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project4" for ::1 at 2017-03-12 17:24:54 +1100
+Processing by PagesController#project4 as HTML
+  Rendering pages/project4.html.erb within layouts/application
+  Rendered pages/project4.html.erb within layouts/application (13.6ms)
+Completed 200 OK in 236ms (Views: 232.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-12 17:24:57 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 80ms (Views: 76.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-12 17:24:59 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 142ms (Views: 116.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-12 17:25:01 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 109ms (Views: 104.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-12 17:25:05 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 94ms (Views: 89.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-12 17:46:08 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (13.7ms)
+Completed 200 OK in 104ms (Views: 102.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-12 17:46:43 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (14.8ms)
+Completed 200 OK in 113ms (Views: 110.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-12 17:46:52 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 71ms (Views: 55.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-12 17:46:53 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 76ms (Views: 73.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-12 17:46:55 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 68ms (Views: 66.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-12 17:46:58 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (7.3ms)
+Completed 200 OK in 111ms (Views: 109.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-12 17:47:03 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 77ms (Views: 73.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-12 17:47:05 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 96ms (Views: 93.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project2" for ::1 at 2017-03-12 17:47:06 +1100
+Processing by PagesController#project2 as HTML
+  Rendering pages/project2.html.erb within layouts/application
+  Rendered pages/project2.html.erb within layouts/application (21.1ms)
+Completed 200 OK in 96ms (Views: 92.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-03-12 17:47:09 +1100
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 74ms (Views: 70.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-03-12 17:47:10 +1100
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 97ms (Views: 94.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-03-12 17:47:12 +1100
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 98ms (Views: 95.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-12 17:47:13 +1100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 114ms (Views: 110.3ms | ActiveRecord: 0.0ms)
+
+
