@@ -1,29 +1,11 @@
 <!-- start menubar -->
-<div class="nav-float">
-  <div class="container">
-    <div class="row">
-      <ul class="nav navbar-nav">
-        <div class="col-md-3">
-          <li><%= link_to 'HOME', root_path, class: "text-white"%></li>
-        </div>
-        <div class="col-md-3">
-          <li><%= link_to 'PROJECTS', pages_projects_path, class: "text-white"%></li>
-        </div>
-        <div class="col-md-3">
-          <li><%= link_to 'CONTACT', pages_contact_path, class: "text-white"%></li>
-        </div>
-        <div class="col-md-3">
-          <li><%= link_to 'FUN', pages_fun_path, class: "text-white active"%></li>
-        </div>
-      </ul>
-    </div>
-  </div>
-</div>
+<%= render '/partials/nav_white' %>
 <!--end menu bar-->
+
 <!-- start projectheader -->
 <div class="container dark-bg">
   <div class="row project-section">
-    <h2 class="section-header">PROJECT NAME</h2>
+    <h2 class="section-header">Open Education</h2>
 
   </div>
 </div>
@@ -31,18 +13,47 @@
 <!-- start project info -->
 <div class="container white-bg">
   <div class="row project-section">
-    <h2 class="section-header">fun</h2>
+    <h2 class="section-header">About</h2>
+    <div class="col-lg-2 col-md-12 col-lg-offset-3">
+      <p>Built on</p>
+      <i class="fa devicon-html5-plain project-sub-text"></i>
+      <i class="fa devicon-css3-plain project-sub-text"></i>
+      <i class="fa devicon-sass-plain project-sub-text"></i>
+      <i class="fa devicon-bootstrap-plain project-sub-text"></i>
+      <i class="fa devicon-ruby-plain project-sub-text"></i>
+      <i class="fa devicon-rails-plain project-sub-text"></i>
+      <i class="fa devicon-photoshop-plain project-sub-text"></i>
+    </div>
+    <div class="col-lg-2 col-md-12">
+      <p>GitHub Page</p>
+      <a href="https://github.com/abazilla/CFA-Rails-Major-Project" target="_blank" class="text-dark"><i class="fa fa-github-alt project-page-icon "></i></a>
+    </div>
+    <div class="col-lg-2 col-md-12">
+      <p>Website Link</p>
+      <a href="https://openeducation2.herokuapp.com/" target="_blank" class="text-dark"><p>openeducation2.herokuapp.com</p></i></a>
+    </div>
+    <div class="col-xs-12">
+      <br>
+      <p>Open Education is a platform for NSW Schools and Teachers to be able to share their curriculum, lesson planning, and resources amongst each other.</p>
+      <p>Schools in Australia can face difficulty when it comes to creating their school curriculums when outcomes set by their State Governments change. This is particularly the case when new content is added, such as the new Digital Technology outcomes being released by the NSW Government, which require both primary and high schools to now implement modern technology and aspects relating to it (including planning, logical thinking, building/coding) into their curriculums.</p>
+
+      <p>School curriculums can be difficult to write especially for primary school children, since content has to be made for up to 4 hours a week from grades K-10, and also matches their appropriate capabilities and opportunities.</p>
+
+      <p>This is a project created by myself as part of the Coder Factory Academy bootcamp. The goal was to fully ideate, design, plan, build, test and deploy a rails application from start to finish, using the skills learned in previous weeks.</p>
+
+    <img src="http://i.imgur.com/rR8Z8lH.png" alt="">
+  </div>
 
   </div>
 </div>
 <!-- end project info -->
 <!-- start hire-me -->
 <a href="#">
-<div class="container hire-style">
-  <div class="row small-section-style">
-    <h3>Interested in my work?</h3>
-    <h2>CONTACT ME</h2>
+  <div class="container hire-style">
+    <div class="row small-section-style">
+      <h3>Interested in my work?</h3>
+      <h2>CONTACT ME</h2>
+    </div>
   </div>
-</div>
 </a>
 <!-- end hire-me -->

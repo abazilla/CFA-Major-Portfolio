@@ -18561,3 +18561,1107 @@ Processing by PagesController#fun as HTML
 Completed 200 OK in 136ms (Views: 130.4ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2017-05-08 13:55:54 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (478.5ms)
+Completed 200 OK in 608ms (Views: 593.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/favicon.ico" for ::1 at 2017-05-08 13:55:57 +1000
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.0) lib/puma/configuration.rb:224:in `call'
+puma (3.8.0) lib/puma/server.rb:590:in `handle_request'
+puma (3.8.0) lib/puma/server.rb:425:in `process_client'
+puma (3.8.0) lib/puma/server.rb:289:in `block in run'
+puma (3.8.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.3ms)
+  Rendered collection of /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [10 times] (12.5ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (15.2ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (115.4ms)
+Started GET "/" for ::1 at 2017-05-08 17:29:43 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (259.0ms)
+Completed 200 OK in 385ms (Views: 368.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 17:29:55 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered pages/projects.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 129ms (Views: 122.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-05-08 17:30:05 +1000
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 111ms (Views: 107.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/fun" for ::1 at 2017-05-08 17:34:30 +1000
+Processing by PagesController#fun as HTML
+  Rendering pages/fun.html.erb within layouts/application
+  Rendered pages/fun.html.erb within layouts/application (389.6ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 578ms (Views: 562.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 17:34:33 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (5.0ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 80ms (Views: 77.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 17:43:00 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav.html.erb (5.0ms)
+  Rendered pages/index.html.erb within layouts/application (52.2ms)
+  Rendered partials/_footer.html.erb (0.7ms)
+Completed 200 OK in 249ms (Views: 237.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 17:43:03 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav.html.erb (2.7ms)
+  Rendered pages/index.html.erb within layouts/application (32.7ms)
+  Rendered partials/_footer.html.erb (0.7ms)
+Completed 200 OK in 219ms (Views: 205.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 17:43:06 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav.html.erb (1.5ms)
+  Rendered pages/index.html.erb within layouts/application (20.7ms)
+  Rendered partials/_footer.html.erb (1.2ms)
+Completed 200 OK in 221ms (Views: 218.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 17:43:12 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav.html.erb (1.1ms)
+  Rendered pages/projects.html.erb within layouts/application (37.8ms)
+  Rendered partials/_footer.html.erb (0.7ms)
+Completed 200 OK in 118ms (Views: 115.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 17:43:16 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav.html.erb (1.1ms)
+  Rendered pages/index.html.erb within layouts/application (11.1ms)
+  Rendered partials/_footer.html.erb (1.2ms)
+Completed 200 OK in 188ms (Views: 179.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 17:43:39 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav.html.erb (1.4ms)
+  Rendered pages/projects.html.erb within layouts/application (53.7ms)
+  Rendered partials/_footer.html.erb (0.7ms)
+Completed 200 OK in 253ms (Views: 250.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project2" for ::1 at 2017-05-08 17:43:40 +1000
+Processing by PagesController#project2 as HTML
+  Rendering pages/project2.html.erb within layouts/application
+  Rendered partials/_nav.html.erb (0.9ms)
+  Rendered pages/project2.html.erb within layouts/application (16.4ms)
+  Rendered partials/_footer.html.erb (1.5ms)
+Completed 200 OK in 184ms (Views: 180.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project2" for ::1 at 2017-05-08 17:44:49 +1000
+Processing by PagesController#project2 as HTML
+  Rendering pages/project2.html.erb within layouts/application
+  Rendered pages/project2.html.erb within layouts/application (8.4ms)
+Completed 500 Internal Server Error in 28ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/project2.html.erb:51: syntax error, unexpected keyword_ensure, expecting ')'
+          ensure
+                ^
+/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views/pages/project2.html.erb:53: syntax error, unexpected keyword_end, expecting ')'
+          end
+             ^):
+  
+app/views/pages/project2.html.erb:51: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/pages/project2.html.erb:53: syntax error, unexpected keyword_end, expecting ')'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.9ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (72.2ms)
+Started GET "/pages/project2" for ::1 at 2017-05-08 17:44:57 +1000
+Processing by PagesController#project2 as HTML
+  Rendering pages/project2.html.erb within layouts/application
+  Rendered partials/_nav.html.erb (1.2ms)
+  Rendered pages/project2.html.erb within layouts/application (9.8ms)
+  Rendered partials/_footer.html.erb (0.4ms)
+Completed 200 OK in 71ms (Views: 67.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project2" for ::1 at 2017-05-08 17:46:06 +1000
+Processing by PagesController#project2 as HTML
+  Rendering pages/project2.html.erb within layouts/application
+  Rendered partials/_nav.html.erb (2.1ms)
+  Rendered pages/project2.html.erb within layouts/application (27.7ms)
+  Rendered partials/_footer.html.erb (0.9ms)
+Completed 200 OK in 156ms (Views: 152.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 17:46:11 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav.html.erb (1.1ms)
+  Rendered pages/index.html.erb within layouts/application (14.7ms)
+  Rendered partials/_footer.html.erb (0.4ms)
+Completed 200 OK in 88ms (Views: 85.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 17:46:14 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav.html.erb (0.7ms)
+  Rendered pages/projects.html.erb within layouts/application (7.5ms)
+  Rendered partials/_footer.html.erb (0.4ms)
+Completed 200 OK in 63ms (Views: 60.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 17:46:40 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav.html.erb (3.0ms)
+  Rendered pages/projects.html.erb within layouts/application (14.3ms)
+  Rendered partials/_footer.html.erb (0.5ms)
+Completed 200 OK in 102ms (Views: 98.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 17:46:43 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav.html.erb (0.6ms)
+  Rendered pages/projects.html.erb within layouts/application (7.0ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 109ms (Views: 106.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 17:51:53 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (2.7ms)
+  Rendered pages/projects.html.erb within layouts/application (25.6ms)
+  Rendered partials/_footer.html.erb (0.8ms)
+Completed 200 OK in 167ms (Views: 157.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 17:51:56 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (6.0ms)
+Completed 500 Internal Server Error in 19ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Missing partial partials/_nav with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views"
+):
+    1: <!-- start menubar -->
+    2: <%= render '/partials/nav' %>
+    3: <!--end menu bar-->
+    4: 
+    5: <!-- start banner -->
+  
+app/views/pages/index.html.erb:2:in `_app_views_pages_index_html_erb___2807458600241471021_70161578131840'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.4ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.0ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (69.7ms)
+Started GET "/" for ::1 at 2017-05-08 17:52:08 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.9ms)
+  Rendered pages/index.html.erb within layouts/application (11.9ms)
+  Rendered partials/_footer.html.erb (0.5ms)
+Completed 200 OK in 77ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 17:52:15 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.5ms)
+  Rendered pages/index.html.erb within layouts/application (6.3ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 77ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 17:52:16 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (1.2ms)
+  Rendered pages/projects.html.erb within layouts/application (10.3ms)
+  Rendered partials/_footer.html.erb (0.9ms)
+Completed 200 OK in 82ms (Views: 78.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-05-08 17:52:18 +1000
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered pages/contact.html.erb within layouts/application (5.2ms)
+Completed 500 Internal Server Error in 19ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Missing partial partials/_nav with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views"
+):
+    1: <!-- start menubar -->
+    2: <%= render '/partials/nav' %>
+    3: <!-- end menubar -->
+    4: 
+    5: <div class="container dark-bg map-bg map-section-style">
+  
+app/views/pages/contact.html.erb:2:in `_app_views_pages_contact_html_erb___2148154616679911878_70161578304100'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (15.8ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.2ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.8ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (225.7ms)
+Started GET "/pages/contact" for ::1 at 2017-05-08 17:52:36 +1000
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.9ms)
+  Rendered pages/contact.html.erb within layouts/application (4.2ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 60ms (Views: 57.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-05-08 17:52:52 +1000
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.6ms)
+  Rendered pages/contact.html.erb within layouts/application (4.2ms)
+  Rendered partials/_footer.html.erb (0.5ms)
+Completed 200 OK in 133ms (Views: 128.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 17:52:59 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.3ms)
+  Rendered pages/index.html.erb within layouts/application (16.5ms)
+  Rendered partials/_footer.html.erb (0.4ms)
+Completed 200 OK in 134ms (Views: 130.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-05-08 17:53:06 +1000
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered pages/project1.html.erb within layouts/application (7.4ms)
+Completed 500 Internal Server Error in 23ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Missing partial partials/_nav with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/Users/patrickabadilla/Documents/Programming/Major Projects/CFA-Major-Portfolio/app/views"
+):
+    1: <!-- start menubar -->
+    2: <%= render '/partials/nav' %>
+    3: <!--end menu bar-->
+    4: 
+    5: <!-- start projectheader -->
+  
+app/views/pages/project1.html.erb:2:in `_app_views_pages_project__html_erb___1263134505295576199_70161584690260'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (11.7ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (83.6ms)
+Started GET "/pages/project1" for ::1 at 2017-05-08 17:53:54 +1000
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (1.4ms)
+  Rendered pages/project1.html.erb within layouts/application (22.6ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 131ms (Views: 127.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-05-08 17:54:21 +1000
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.8ms)
+  Rendered pages/project1.html.erb within layouts/application (11.9ms)
+  Rendered partials/_footer.html.erb (0.7ms)
+Completed 200 OK in 112ms (Views: 109.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 17:54:23 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (1.0ms)
+  Rendered pages/projects.html.erb within layouts/application (17.4ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 103ms (Views: 100.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project2" for ::1 at 2017-05-08 17:54:26 +1000
+Processing by PagesController#project2 as HTML
+  Rendering pages/project2.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.7ms)
+  Rendered pages/project2.html.erb within layouts/application (18.9ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 117ms (Views: 113.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-05-08 17:54:31 +1000
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.6ms)
+  Rendered pages/project1.html.erb within layouts/application (50.2ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 246ms (Views: 240.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 17:54:33 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (1.6ms)
+  Rendered pages/projects.html.erb within layouts/application (44.3ms)
+  Rendered partials/_footer.html.erb (0.5ms)
+Completed 200 OK in 252ms (Views: 249.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project2" for ::1 at 2017-05-08 17:54:33 +1000
+Processing by PagesController#project2 as HTML
+  Rendering pages/project2.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (2.0ms)
+  Rendered pages/project2.html.erb within layouts/application (18.3ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 169ms (Views: 165.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 17:54:37 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (0.9ms)
+  Rendered pages/projects.html.erb within layouts/application (13.3ms)
+  Rendered partials/_footer.html.erb (0.5ms)
+Completed 200 OK in 134ms (Views: 130.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project3" for ::1 at 2017-05-08 17:54:38 +1000
+Processing by PagesController#project3 as HTML
+  Rendering pages/project3.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.6ms)
+  Rendered pages/project3.html.erb within layouts/application (19.1ms)
+  Rendered partials/_footer.html.erb (0.5ms)
+Completed 200 OK in 135ms (Views: 131.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project3" for ::1 at 2017-05-08 17:54:51 +1000
+Processing by PagesController#project3 as HTML
+  Rendering pages/project3.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (0.9ms)
+  Rendered pages/project3.html.erb within layouts/application (11.5ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 111ms (Views: 108.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 17:55:30 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.1ms)
+  Rendered pages/index.html.erb within layouts/application (14.2ms)
+  Rendered partials/_footer.html.erb (0.5ms)
+Completed 200 OK in 110ms (Views: 105.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 17:55:54 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.8ms)
+  Rendered pages/index.html.erb within layouts/application (16.9ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 3260ms (Views: 3256.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 18:02:43 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (2.8ms)
+  Rendered pages/projects.html.erb within layouts/application (50.6ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 2469ms (Views: 2459.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 18:02:46 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (0.7ms)
+  Rendered pages/projects.html.erb within layouts/application (7.2ms)
+  Rendered partials/_footer.html.erb (0.4ms)
+Completed 200 OK in 169ms (Views: 162.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:02:48 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.6ms)
+  Rendered pages/index.html.erb within layouts/application (19.8ms)
+  Rendered partials/_footer.html.erb (0.4ms)
+Completed 200 OK in 146ms (Views: 140.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:04:35 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.8ms)
+  Rendered pages/index.html.erb within layouts/application (29.0ms)
+  Rendered partials/_footer.html.erb (1.7ms)
+Completed 200 OK in 4053ms (Views: 4046.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:05:00 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (14.0ms)
+  Rendered pages/index.html.erb within layouts/application (53.7ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 220ms (Views: 208.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:05:13 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.2ms)
+  Rendered pages/index.html.erb within layouts/application (18.7ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 3015ms (Views: 3011.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:05:51 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (4.3ms)
+  Rendered pages/index.html.erb within layouts/application (49.9ms)
+  Rendered partials/_footer.html.erb (0.4ms)
+Completed 200 OK in 3043ms (Views: 3033.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:06:33 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.2ms)
+  Rendered pages/index.html.erb within layouts/application (36.4ms)
+  Rendered partials/_footer.html.erb (0.5ms)
+Completed 200 OK in 2167ms (Views: 2163.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:07:43 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.8ms)
+  Rendered pages/index.html.erb within layouts/application (15.7ms)
+  Rendered partials/_footer.html.erb (0.7ms)
+Completed 200 OK in 2762ms (Views: 2758.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:08:10 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.8ms)
+  Rendered pages/index.html.erb within layouts/application (22.6ms)
+  Rendered partials/_footer.html.erb (1.4ms)
+Completed 200 OK in 3142ms (Views: 3138.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:08:26 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.8ms)
+  Rendered pages/index.html.erb within layouts/application (8.9ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 2632ms (Views: 2628.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:08:41 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.9ms)
+  Rendered pages/index.html.erb within layouts/application (12.9ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 2139ms (Views: 2135.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-05-08 18:08:44 +1000
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.8ms)
+  Rendered pages/contact.html.erb within layouts/application (3.0ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 116ms (Views: 113.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:08:47 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.1ms)
+  Rendered pages/index.html.erb within layouts/application (11.4ms)
+  Rendered partials/_footer.html.erb (11.1ms)
+Completed 200 OK in 206ms (Views: 201.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:09:33 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (6.7ms)
+  Rendered pages/index.html.erb within layouts/application (72.0ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 2803ms (Views: 2794.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:09:55 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.9ms)
+  Rendered pages/index.html.erb within layouts/application (16.0ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 3590ms (Views: 3587.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:10:06 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.1ms)
+  Rendered pages/index.html.erb within layouts/application (13.4ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 3235ms (Views: 3232.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:10:16 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.1ms)
+  Rendered pages/index.html.erb within layouts/application (10.4ms)
+  Rendered partials/_footer.html.erb (0.4ms)
+Completed 200 OK in 2391ms (Views: 2388.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:10:34 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.8ms)
+  Rendered pages/index.html.erb within layouts/application (9.0ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 2481ms (Views: 2478.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 18:10:45 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (1.2ms)
+  Rendered pages/projects.html.erb within layouts/application (19.1ms)
+  Rendered partials/_footer.html.erb (0.4ms)
+Completed 200 OK in 84ms (Views: 80.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-05-08 18:10:48 +1000
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.6ms)
+  Rendered pages/contact.html.erb within layouts/application (4.4ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 87ms (Views: 84.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:10:52 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.6ms)
+  Rendered pages/index.html.erb within layouts/application (11.8ms)
+  Rendered partials/_footer.html.erb (0.8ms)
+Completed 200 OK in 175ms (Views: 171.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:12:44 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (3.5ms)
+  Rendered pages/index.html.erb within layouts/application (66.7ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 4016ms (Views: 4005.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:13:18 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.7ms)
+  Rendered pages/index.html.erb within layouts/application (18.1ms)
+Completed 500 Internal Server Error in 105ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Invalid CSS after "  padding:": expected expression (e.g. 1px, bold), was "}"):
+     7: 
+     8:   <%= csrf_meta_tags %>
+     9: 
+    10:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    11:   <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    12: 
+    13: 
+  
+app/assets/stylesheets/application.scss.erb:291
+app/views/layouts/application.html.erb:10:in `_app_views_layouts_application_html_erb___713469371839984562_70161556250540'
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.7ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.8ms)
+  Rendering /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Users/patrickabadilla/.rvm/gems/ruby-2.4.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (108.8ms)
+Started GET "/" for ::1 at 2017-05-08 18:13:29 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.8ms)
+  Rendered pages/index.html.erb within layouts/application (21.6ms)
+  Rendered partials/_footer.html.erb (0.5ms)
+Completed 200 OK in 2235ms (Views: 2231.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:14:27 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (2.8ms)
+  Rendered pages/index.html.erb within layouts/application (24.8ms)
+  Rendered partials/_footer.html.erb (0.4ms)
+Completed 200 OK in 2504ms (Views: 2495.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:14:56 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.9ms)
+  Rendered pages/index.html.erb within layouts/application (18.1ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 2648ms (Views: 2645.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:15:59 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.1ms)
+  Rendered pages/index.html.erb within layouts/application (20.1ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 2048ms (Views: 2043.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project3" for ::1 at 2017-05-08 18:16:03 +1000
+Processing by PagesController#project3 as HTML
+  Rendering pages/project3.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (1.2ms)
+  Rendered pages/project3.html.erb within layouts/application (19.5ms)
+  Rendered partials/_footer.html.erb (1.1ms)
+Completed 200 OK in 199ms (Views: 194.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:16:05 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.1ms)
+  Rendered pages/index.html.erb within layouts/application (23.1ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 163ms (Views: 159.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:17:02 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (3.1ms)
+  Rendered pages/index.html.erb within layouts/application (30.5ms)
+  Rendered partials/_footer.html.erb (0.8ms)
+Completed 200 OK in 2497ms (Views: 2492.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:17:46 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.0ms)
+  Rendered pages/index.html.erb within layouts/application (16.2ms)
+  Rendered partials/_footer.html.erb (0.4ms)
+Completed 200 OK in 2606ms (Views: 2602.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:21:26 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (3.2ms)
+  Rendered pages/index.html.erb within layouts/application (108.1ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 5530ms (Views: 5516.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:21:38 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.7ms)
+  Rendered pages/index.html.erb within layouts/application (8.7ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 2253ms (Views: 2250.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:22:30 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.0ms)
+  Rendered pages/index.html.erb within layouts/application (16.9ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 3630ms (Views: 3625.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 18:22:41 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (0.9ms)
+  Rendered pages/projects.html.erb within layouts/application (10.4ms)
+  Rendered partials/_footer.html.erb (0.4ms)
+Completed 200 OK in 145ms (Views: 141.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 18:24:27 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (5.7ms)
+  Rendered pages/projects.html.erb within layouts/application (101.1ms)
+  Rendered partials/_footer.html.erb (1.1ms)
+Completed 200 OK in 476ms (Views: 460.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 18:25:17 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (0.7ms)
+  Rendered pages/projects.html.erb within layouts/application (2422.8ms)
+  Rendered partials/_footer.html.erb (0.5ms)
+Completed 200 OK in 2607ms (Views: 2604.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 18:25:27 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (0.6ms)
+  Rendered pages/projects.html.erb within layouts/application (6.6ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 54ms (Views: 52.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 18:25:45 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (0.8ms)
+  Rendered pages/projects.html.erb within layouts/application (10.9ms)
+  Rendered partials/_footer.html.erb (0.4ms)
+Completed 200 OK in 67ms (Views: 63.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 18:26:05 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (0.6ms)
+  Rendered pages/projects.html.erb within layouts/application (5.9ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 69ms (Views: 65.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-05-08 18:27:44 +1000
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (13.3ms)
+  Rendered pages/project5.html.erb within layouts/application (20.2ms)
+  Rendered partials/_footer.html.erb (0.7ms)
+Completed 200 OK in 250ms (Views: 238.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 18:27:47 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.7ms)
+  Rendered pages/index.html.erb within layouts/application (98.3ms)
+  Rendered partials/_footer.html.erb (0.5ms)
+Completed 200 OK in 239ms (Views: 237.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 19:25:26 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (4.4ms)
+  Rendered pages/index.html.erb within layouts/application (40.8ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 282ms (Views: 269.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 19:26:25 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (1.4ms)
+  Rendered pages/projects.html.erb within layouts/application (23.7ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 345ms (Views: 334.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-05-08 19:26:26 +1000
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.4ms)
+  Rendered pages/project5.html.erb within layouts/application (5.9ms)
+  Rendered partials/_footer.html.erb (1.1ms)
+Completed 200 OK in 186ms (Views: 181.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 19:26:31 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (1.1ms)
+  Rendered pages/projects.html.erb within layouts/application (15.2ms)
+  Rendered partials/_footer.html.erb (1.1ms)
+Completed 200 OK in 174ms (Views: 170.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project1" for ::1 at 2017-05-08 19:26:31 +1000
+Processing by PagesController#project1 as HTML
+  Rendering pages/project1.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.3ms)
+  Rendered pages/project1.html.erb within layouts/application (16.5ms)
+  Rendered partials/_footer.html.erb (0.5ms)
+Completed 200 OK in 173ms (Views: 169.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 19:26:34 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (1.8ms)
+  Rendered pages/projects.html.erb within layouts/application (16.9ms)
+  Rendered partials/_footer.html.erb (2.8ms)
+Completed 200 OK in 156ms (Views: 154.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-05-08 19:26:35 +1000
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.5ms)
+  Rendered pages/project5.html.erb within layouts/application (7.5ms)
+  Rendered partials/_footer.html.erb (1.0ms)
+Completed 200 OK in 135ms (Views: 132.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-05-08 19:27:30 +1000
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.7ms)
+  Rendered pages/project5.html.erb within layouts/application (4.9ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 58ms (Views: 55.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 19:29:57 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (2.8ms)
+  Rendered pages/projects.html.erb within layouts/application (27.3ms)
+  Rendered partials/_footer.html.erb (0.4ms)
+Completed 200 OK in 178ms (Views: 165.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project2" for ::1 at 2017-05-08 19:29:58 +1000
+Processing by PagesController#project2 as HTML
+  Rendering pages/project2.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.0ms)
+  Rendered pages/project2.html.erb within layouts/application (22.8ms)
+  Rendered partials/_footer.html.erb (1.1ms)
+Completed 200 OK in 147ms (Views: 142.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/projects" for ::1 at 2017-05-08 19:30:33 +1000
+Processing by PagesController#projects as HTML
+  Rendering pages/projects.html.erb within layouts/application
+  Rendered partials/_nav_dark.html.erb (2.6ms)
+  Rendered pages/projects.html.erb within layouts/application (42.3ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 411ms (Views: 405.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-05-08 19:30:34 +1000
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (12.1ms)
+  Rendered pages/project5.html.erb within layouts/application (15.6ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 155ms (Views: 150.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-05-08 19:31:08 +1000
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.5ms)
+  Rendered pages/project5.html.erb within layouts/application (5.1ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 151ms (Views: 148.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-05-08 19:31:14 +1000
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.3ms)
+  Rendered pages/project5.html.erb within layouts/application (5.1ms)
+  Rendered partials/_footer.html.erb (0.5ms)
+Completed 200 OK in 74ms (Views: 71.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-05-08 19:32:03 +1000
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (2.0ms)
+  Rendered pages/project5.html.erb within layouts/application (6.3ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 86ms (Views: 83.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-05-08 19:32:16 +1000
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.1ms)
+  Rendered pages/project5.html.erb within layouts/application (6.5ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 71ms (Views: 67.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-05-08 19:32:23 +1000
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (2.4ms)
+  Rendered pages/project5.html.erb within layouts/application (7.3ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 76ms (Views: 71.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-05-08 19:32:45 +1000
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.6ms)
+  Rendered pages/project5.html.erb within layouts/application (2.5ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 66ms (Views: 63.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-05-08 19:32:50 +1000
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.5ms)
+  Rendered pages/project5.html.erb within layouts/application (2.1ms)
+  Rendered partials/_footer.html.erb (0.4ms)
+Completed 200 OK in 54ms (Views: 52.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-05-08 19:33:17 +1000
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.8ms)
+  Rendered pages/project5.html.erb within layouts/application (4.4ms)
+  Rendered partials/_footer.html.erb (0.3ms)
+Completed 200 OK in 112ms (Views: 110.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-05-08 19:33:18 +1000
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.6ms)
+  Rendered pages/project5.html.erb within layouts/application (2.8ms)
+  Rendered partials/_footer.html.erb (0.6ms)
+Completed 200 OK in 82ms (Views: 77.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-05-08 19:33:18 +1000
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.0ms)
+  Rendered pages/project5.html.erb within layouts/application (3.9ms)
+  Rendered partials/_footer.html.erb (1.3ms)
+Completed 200 OK in 72ms (Views: 70.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/project5" for ::1 at 2017-05-08 19:33:34 +1000
+Processing by PagesController#project5 as HTML
+  Rendering pages/project5.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (2.3ms)
+  Rendered pages/project5.html.erb within layouts/application (5.6ms)
+  Rendered partials/_footer.html.erb (0.5ms)
+Completed 200 OK in 92ms (Views: 89.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for ::1 at 2017-05-08 19:33:45 +1000
+Processing by PagesController#contact as HTML
+  Rendering pages/contact.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (0.7ms)
+  Rendered pages/contact.html.erb within layouts/application (3.6ms)
+  Rendered partials/_footer.html.erb (0.5ms)
+Completed 200 OK in 81ms (Views: 78.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-05-08 19:33:47 +1000
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partials/_nav_white.html.erb (1.0ms)
+  Rendered pages/index.html.erb within layouts/application (20.7ms)
+  Rendered partials/_footer.html.erb (0.7ms)
+Completed 200 OK in 109ms (Views: 106.6ms | ActiveRecord: 0.0ms)
+
+

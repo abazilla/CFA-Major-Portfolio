@@ -1,25 +1,7 @@
 <!-- start menubar -->
-<div class="nav-float">
-  <div class="container">
-    <div class="row">
-      <ul class="nav navbar-nav">
-        <div class="col-lg-3 col-md-12">
-          <li><%= link_to 'HOME', root_path, class: "text-white"%></li>
-        </div>
-        <div class="col-lg-3 col-md-12">
-          <li><%= link_to 'PROJECTS', pages_projects_path, class: "text-white"%></li>
-        </div>
-        <div class="col-lg-3 col-md-12">
-          <li><%= link_to 'CONTACT', pages_contact_path, class: "text-white"%></li>
-        </div>
-        <div class="col-lg-3 col-md-12">
-          <li><%= link_to 'FUN', pages_fun_path, class: "text-white active"%></li>
-        </div>
-      </ul>
-    </div>
-  </div>
-</div>
+<%= render '/partials/nav_white' %>
 <!--end menu bar-->
+
 <!-- start projectheader -->
 <div class="container project-grav">
   <div class="row project-section">
