@@ -3,13 +3,16 @@
   <div class="container">
     <div class="row">
       <ul class="nav navbar-nav">
-        <div class="col-md-4">
+        <div class="col-md-3">
           <li><%= link_to 'HOME', root_path, class: "text-dark" %></li>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
           <li><%= link_to 'PROJECTS', pages_projects_path, class: "text-dark" %></li>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
+          <li><%= link_to 'RESUME', asset_path('http://res.cloudinary.com/db1gzh1cu/image/upload/v1494287361/Patrick_Abadilla_Resume_May_2017_dbyh9t.pdf'), class: "text-dark" %></li>
+        </div>
+        <div class="col-md-3">
           <li><%= link_to 'CONTACT', pages_contact_path, class: "text-dark" %></li>
         </div>
       </ul>
